@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Rochambeau</string>
+    <string name="rock">Rock</string>
+    <string name="paper">Paper</string>
+    <string name="scissor">Scissor</string>
+    <string name="let_s_play">Let\'s Play</string>
+    <string name="rochambeau">Rochambeau</string>
+    <string name="instructions">Instructions</string>
+    <string name="start">Start</string>
+    <string name="select_mode">Select Mode</string>
+    <string name="multiplayer_mode">Multiplayer mode</string>
+    <string name="solo_mode">Solo mode</string>
+    <string name="solo_mode_key">Solo Mode</string>
+    <string name="multiplayer_mode_key">Multiplayer Mode</string>
+</resources>
